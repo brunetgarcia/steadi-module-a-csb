@@ -1,10 +1,12 @@
 <template>
   <div class="container">
     <div>
-      <h1>Hello from
+      <h1>
+        Hello from
         <span class="name">{{ name }}</span>.
       </h1>
       <p>Test Change</p>
+      <p>CSB Change</p>
       <p>
         <NLink to="/" class="button--grey">Back home</NLink>
       </p>
