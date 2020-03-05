@@ -4,7 +4,7 @@
       <h1>Hello from
         <span class="name">{{ name }}</span>.
       </h1>
-      <p>Test Change</p>
+      <p>Test Change - From local</p>
       <p>
         <NLink to="/" class="button--grey">Back home</NLink>
       </p>
